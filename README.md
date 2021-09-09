@@ -1,5 +1,3 @@
 <h1>    Calculadora - IMC </H1>
-Uma calculadora para calculo de IMC, Utilizando Javascript , Css e  Html <br>
-<div align="center">
-<img src="https://user-images.githubusercontent.com/69019626/132750273-5983b18a-a617-4dbe-8f40- 21034f3368eb.png"/>
-</div>
+Uma calculadora para calculo de IMC, Utilizando Javascript , Css e  Html
+![calculadora2](https://user-images.githubusercontent.com/69019626/132751030-237b810a-88b9-4a17-913c-179d20cf2b0a.png)
